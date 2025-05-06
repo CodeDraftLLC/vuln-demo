@@ -1,0 +1,6 @@
+version: 2
+updates:
+  - package-ecosystem: "pip"
+    directory: "/"                     # Looks for requirements.txt in root
+    schedule:
+      interval: "daily"
