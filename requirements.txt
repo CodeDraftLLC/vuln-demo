@@ -1,4 +1,4 @@
 flask==1.0              # Old, with known CVEs
-requests==2.19.1        # Known SSL verification bugs
+requests==2.32.4        # Known SSL verification bugs
 pyyaml==5.1             # CVE-2020-14343
 jinja2==2.10.1          # CVE-2019-10906
